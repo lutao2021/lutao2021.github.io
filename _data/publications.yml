@@ -5,7 +5,7 @@ main:
     conference_short: "Arxiv"
     conference: "Arxiv, 2504"
     pdf: "#"
-    Project Page: https://lutao2021.github.io/DiMeR_page/
+    Project_Page: https://lutao2021.github.io/DiMeR_page/
     image: ./assets/img/DiMeR.png
     notes: ""
 
@@ -14,7 +14,7 @@ main:
     conference_short: "Arxiv"
     conference: "Arxiv, 2403"
     pdf: "#"
-    Project Page: https://github.com/lutao2021/BrightDreamer
+    Project_Page: https://github.com/lutao2021/BrightDreamer
     image: ./assets/img/BrightDreamer.png
     notes: ""
 
@@ -23,7 +23,7 @@ main:
     conference_short: "ACM MM"
     conference: "ACM Multimedia, 2024"
     pdf: "https://arxiv.org/pdf/2408.01269"
-    Project Page: https://github.com/cyjdlhy/DreamInit
+    Project_Page: https://github.com/cyjdlhy/DreamInit
     image: ./assets/img/DreamInit.png
     notes: ""
 
@@ -32,6 +32,6 @@ main:
     conference_short: "IJCV"
     conference: "International Journal of Computer Vision, 2023"
     pdf: "https://link.springer.com/article/10.1007/s11263-023-01855-1"
-    Project Page: https://github.com/lutao2021/PIDray
+    Project_Page: https://github.com/lutao2021/PIDray
     image: ./assets/img/PIDray.png
     notes: ""
