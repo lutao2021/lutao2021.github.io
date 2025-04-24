@@ -52,3 +52,45 @@ main:
     pdf: "https://arxiv.org/pdf/2502.00848"
     image: ./assets/img/RealRAG.png
     notes: ""
+
+  - title: "MAGIC++: Efficient and Resilient Modality-Agnostic Semantic Segmentation via Hierarchical Modality Selection"
+    authors: "Xu Zheng, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Jiazhou Zhou, Lin Wang**, Xuming Hu**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2412"
+    pdf: "https://arxiv.org/pdf/2412.16876"
+    image: ./assets/img/MAGIC++.png
+    notes: ""
+
+  - title: "Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation"
+    authors: "Xu Zheng, Haiwei Xue, Jialei Chen, Yibo Yan, <strong>Lutao Jiang</strong>, Yuanhuiyi Lyu, Kailun Yang, Linfeng Zhang, Xuming Hu**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2411"
+    pdf: "https://arxiv.org/pdf/2411.17141"
+    image: ./assets/img/Learning_Robust.png
+    notes: ""
+
+  - title: "G-NeLF: Memory-and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis"
+    authors: "<strong>Lutao Jiang</strong>, Lin Wang**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2409"
+    Project_Page: https://vlislab22.github.io/G-NeLF/
+    pdf: "https://arxiv.org/pdf/2409.05617"
+    image: ./assets/img/G-NeLF.png
+    notes: ""
+
+  - title: "Componerf: Text-guided multi-object compositional nerf with editable 3d scene layout"
+    authors: "Haotian Bai, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Sijia Li, Haonan Lu, Xiaodong Lin, Lin Wang**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2309"
+    Project_Page: https://vlislab22.github.io/componerf/
+    pdf: "https://arxiv.org/pdf/2303.13843"
+    image: ./assets/img/CompoNeRF.png
+    notes: ""
+
+  - title: "Sdf-3dgan: A 3d object generative method based on implicit signed distance function"
+    authors: "Lutao Jiang, Ruyi Ji, Libo Zhang**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2303"
+    pdf: "https://arxiv.org/pdf/2303.06821"
+    image: ./assets/img/SDF-3DGAN.png
+    notes: ""
