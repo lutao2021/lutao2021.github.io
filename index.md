@@ -14,4 +14,6 @@ I am a Ph.D. student at HKUST(GZ) supervised by Prof. [Ying-Cong Chen](https://w
 
 {% include_relative _includes/services.md %}
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=eqmeXayAbKjPDkBB2FKVj3afISBnWFI1my0w529iYi4"></script>
+<div style="height: 250px;width: 250px;margin-left: 40px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=eqmeXayAbKjPDkBB2FKVj3afISBnWFI1my0w529iYi4"></script>
+</div>
