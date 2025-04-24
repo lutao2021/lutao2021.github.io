@@ -1,22 +1,37 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "DiMeR: Disentangled Mesh Reconstruction Model"
+    authors: "<strong>Lutao Jiang*</strong>, Jiantao Lin*, Kanghao Chen*, Wenhang Ge*, Xin Yang, Yifan Jiang, Yuanhuiyi Lyu, Xu Zheng, Yingcong Chen**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2504"
+    pdf: "#"
+    Project Page: https://lutao2021.github.io/DiMeR_page/
+    image: ./assets/img/DiMeR.png
+    notes: ""
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis"
+    authors: "<strong>Lutao Jiang</strong>, Xu Zheng, Yuanhuiyi Lyu, Jiazhou Zhou, Lin Wang"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2403"
+    pdf: "#"
+    Project Page: https://github.com/lutao2021/BrightDreamer
+    image: ./assets/img/BrightDreamer.png
+    notes: ""
+
+  - title: "A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness"
+    authors: "<strong>Lutao Jiang*</strong>, Hangyu Li*, Lin Wang**"
+    conference_short: "ACM MM"
+    conference: "ACM Multimedia, 2024"
+    pdf: "https://arxiv.org/pdf/2408.01269"
+    Project Page: https://github.com/cyjdlhy/DreamInit
+    image: ./assets/img/DreamInit.png
+    notes: ""
+
+  - title: "Pidray: A large-scale x-ray benchmark for real-world prohibited item detection"
+    authors: "Libo Zhang*, <strong>Lutao Jiang*</strong>, Ruyi Ji**, Heng Fan"
+    conference_short: "IJCV"
+    conference: "International Journal of Computer Vision, 2023"
+    pdf: "https://link.springer.com/article/10.1007/s11263-023-01855-1"
+    Project Page: https://github.com/lutao2021/PIDray
+    image: ./assets/img/PIDray.png
+    notes: ""
