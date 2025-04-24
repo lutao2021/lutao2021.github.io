@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at HKUST(GZ) supervised by Prof. [Ying-Cong Chen](https://www.yingcong.me/) and Prof. [Xuming Hu](https://xuminghu.github.io/). Before that, I'm a master student at Institute of Software Chinese Academy of Sciences (ISCAS). In 2021, I obtain the Bacheler's degree of Computer Science in China University of Geosciences (CUG). My recent research interests include Generative Artificial Intelligence, 3D Computer Vision. I also work closely with [Yuanhuiyi Lyu](https://qc-ly.github.io/) and [Xu zheng](https://zhengxujosh.github.io/).
+I am a Ph.D. student at HKUST(GZ) supervised by Prof. [Ying-Cong Chen](https://www.yingcong.me/) and Prof. [Xuming Hu](https://xuminghu.github.io/). Before that, I'm a master student at Institute of Software Chinese Academy of Sciences (ISCAS). In 2021, I obtain the Bacheler's degree of Computer Science in China University of Geosciences (CUG). My recent research interests include Generative Artificial Intelligence, 3D Computer Vision. I work closely with [Yuanhuiyi Lyu](https://qc-ly.github.io/) and [Xu zheng](https://zhengxujosh.github.io/).
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
