@@ -35,3 +35,20 @@ main:
     Project_Page: https://github.com/lutao2021/PIDray
     image: ./assets/img/PIDray.png
     notes: ""
+
+  - title: "Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook"
+    authors: "Xu Zheng*, Ziqiao Weng*, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Haiwei Xue, Bin Ren, Danda Paudel, Nicu Sebe, Luc Van Gool, Xuming Hu**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2503"
+    pdf: "https://arxiv.org/pdf/2503.18016"
+    Project_Page: https://github.com/zhengxuJosh/Awesome-RAG-Vision
+    image: ./assets/img/RAGCV.png
+    notes: ""
+
+  - title: "RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning"
+    authors: "Yuanhuiyi Lyu, Xu Zheng, <strong>Lutao Jiang</strong>, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2502"
+    pdf: "https://arxiv.org/pdf/2502.00848"
+    image: ./assets/img/RealRAG.png
+    notes: ""
