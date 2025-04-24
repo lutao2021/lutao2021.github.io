@@ -88,7 +88,7 @@ main:
     notes: ""
 
   - title: "Sdf-3dgan: A 3d object generative method based on implicit signed distance function"
-    authors: "Lutao Jiang, Ruyi Ji, Libo Zhang**"
+    authors: "<strong>Lutao Jiang</strong>, Ruyi Ji, Libo Zhang**"
     conference_short: "Arxiv"
     conference: "Arxiv, 2303"
     pdf: "https://arxiv.org/pdf/2303.06821"
