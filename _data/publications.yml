@@ -4,7 +4,7 @@ main:
     authors: "<strong>Lutao Jiang*</strong>, Jiantao Lin*, Kanghao Chen*, Wenhang Ge*, Xin Yang, Yifan Jiang, Yuanhuiyi Lyu, Xu Zheng, Yingcong Chen**"
     conference_short: "Arxiv"
     conference: "Arxiv, 2504"
-    pdf: "#"
+    pdf: "https://arxiv.org/pdf/2504.17670"
     Project_Page: https://lutao2021.github.io/DiMeR_page/
     image: ./assets/img/DiMeR.png
     notes: ""
@@ -13,7 +13,7 @@ main:
     authors: "<strong>Lutao Jiang</strong>, Xu Zheng, Yuanhuiyi Lyu, Jiazhou Zhou, Lin Wang"
     conference_short: "Arxiv"
     conference: "Arxiv, 2403"
-    pdf: "#"
+    pdf: "https://arxiv.org/pdf/2403.11273"
     Project_Page: https://github.com/lutao2021/BrightDreamer
     image: ./assets/img/BrightDreamer.png
     notes: ""
