@@ -12,6 +12,8 @@ I am a Ph.D. student at HKUST(GZ) supervised by Prof. [Ying-Cong Chen](https://w
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/teaching.md %}
+
 {% include_relative _includes/services.md %}
 
 <div style="height: 250px;width: 250px;margin-left: 40px;">
