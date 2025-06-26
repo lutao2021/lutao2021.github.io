@@ -36,12 +36,34 @@ main:
     image: ./assets/img/PIDray.png
     notes: ""
 
+  - title: "Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion"
+    authors: "Tongyan Hua, <strong>Lutao Jiang</strong>, Ying-Cong Chen, Wufan Zhao"
+    conference_short: "ICCV"
+    conference: "International Conference on Computer Vision, 2025"
+    image: ./assets/img/Sat2City.png
+
+  - title: "Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization"
+    authors: "Xu Zheng, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Danda Pani Paudel, Luc Van Gool, Xuming Hu**"
+    conference_short: "ICCV"
+    conference: "International Conference on Computer Vision, 2025"
+    pdf: "https://arxiv.org/pdf/2505.06635"
+    image: ./assets/img/reducing.png
+    notes: ""
+
   - title: "RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning"
     authors: "Yuanhuiyi Lyu, Xu Zheng, <strong>Lutao Jiang</strong>, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu"
     conference_short: "ICML"
     conference: "International Conference on Machine Learning, 2025"
     pdf: "https://arxiv.org/pdf/2502.00848"
     image: ./assets/img/RealRAG.png
+    notes: ""
+
+  - title: "MLLMs are Deeply Affected by Modality Bias"
+    authors: "Xu Zheng*, Chenfei Liao*, Yuqian Fu, Kaiyu Lei, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Bin Ren, Jialei Chen, Jiawen Wang, Chengxin Li, Linfeng Zhang, Danda Pani Paudel, Xuanjing Huang, Yu-Gang Jiang, Nicu Sebe, Dacheng Tao, Luc Van Gool, Xuming Hu**"
+    conference_short: "Arxiv"
+    conference: "Arxiv, 2505"
+    pdf: "https://arxiv.org/pdf/2505.18657"
+    image: ./assets/img/MLLM_position.png
     notes: ""
 
   - title: "Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook"
@@ -51,14 +73,6 @@ main:
     pdf: "https://arxiv.org/pdf/2503.18016"
     Project_Page: https://github.com/zhengxuJosh/Awesome-RAG-Vision
     image: ./assets/img/RAGCV.png
-    notes: ""
-
-  - title: "Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization"
-    authors: "Xu Zheng, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Danda Pani Paudel, Luc Van Gool, Xuming Hu**"
-    conference_short: "Arxiv"
-    conference: "Arxiv, 2505"
-    pdf: "https://arxiv.org/pdf/2505.06635"
-    image: ./assets/img/reducing.png
     notes: ""
 
   - title: "MAGIC++: Efficient and Resilient Modality-Agnostic Semantic Segmentation via Hierarchical Modality Selection"
