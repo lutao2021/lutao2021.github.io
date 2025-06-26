@@ -1,7 +1,7 @@
 main:
 
   - title: "DiMeR: Disentangled Mesh Reconstruction Model"
-    authors: "<strong>Lutao Jiang*</strong>, Jiantao Lin*, Kanghao Chen*, Wenhang Ge*, Xin Yang, Yifan Jiang, Yuanhuiyi Lyu, Xu Zheng, Yinchuan Li, Yingcong Chen**"
+    authors: "<strong>Lutao Jiang*</strong>, Jiantao Lin*, Kanghao Chen*, Wenhang Ge*, Xin Yang, Yifan Jiang, Yuanhuiyi Lyu, Xu Zheng, Yinchuan Li, Ying-Cong Chen**"
     conference_short: "Arxiv"
     conference: "Arxiv, 2504"
     pdf: "https://arxiv.org/pdf/2504.17670"
