@@ -44,6 +44,20 @@ main:
     Project_Page: https://ai4city-hkust.github.io/Sat2City/
     pdf: "https://arxiv.org/pdf/2507.04403"
 
+  - title: "RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning"
+    authors: "Yuanhuiyi Lyu, Xu Zheng, <strong>Lutao Jiang</strong>, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu"
+    conference_short: "ICML"
+    conference: "International Conference on Machine Learning, 2025"
+    pdf: "https://arxiv.org/pdf/2502.00848"
+    image: ./assets/img/RealRAG.png
+    notes: ""
+
+  - title: "ST2360D: Spatial-to-Temporal Consistency for Training-free 360 Monocular Depth Estimation"
+    authors: "Zidong Cao, Jinjing Zhu, Hao Ai, <strong>Lutao Jiang</strong>, Yunahuiyi Lv, Hui Xiong**"
+    conference_short: "NeurIPS"
+    conference: "Advances in Neural Information Processing Systems, 2025"
+    notes: ""
+
   - title: "Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization"
     authors: "Xu Zheng, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Danda Pani Paudel, Luc Van Gool, Xuming Hu**"
     conference_short: "ICCV"
@@ -52,12 +66,10 @@ main:
     image: ./assets/img/reducing.png
     notes: ""
 
-  - title: "RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning"
-    authors: "Yuanhuiyi Lyu, Xu Zheng, <strong>Lutao Jiang</strong>, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu"
-    conference_short: "ICML"
-    conference: "International Conference on Machine Learning, 2025"
-    pdf: "https://arxiv.org/pdf/2502.00848"
-    image: ./assets/img/RealRAG.png
+  - title: "EVDiffuser: Event-Guided Consistent Video Reconstruction with Modality-Agnostic Diffusion Framework"
+    authors: "Kanghao Chen*, Zixin Zhang*, Guoqiang Liang, <strong>Lutao Jiang</strong>, Zeyu Wang, Ying-Cong Chen**"
+    conference_short: "NeurIPS"
+    conference: "Advances in Neural Information Processing Systems, 2025"
     notes: ""
 
   - title: "MLLMs are Deeply Affected by Modality Bias"
