@@ -56,6 +56,7 @@ main:
     authors: "Zidong Cao, Jinjing Zhu, Hao Ai, <strong>Lutao Jiang</strong>, Yunahuiyi Lv, Hui Xiong**"
     conference_short: "NeurIPS"
     conference: "Advances in Neural Information Processing Systems, 2025"
+    image: ./assets/img/ST2360D.png
     notes: ""
 
   - title: "Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization"
@@ -70,40 +71,41 @@ main:
     authors: "Kanghao Chen*, Zixin Zhang*, Guoqiang Liang, <strong>Lutao Jiang</strong>, Zeyu Wang, Ying-Cong Chen**"
     conference_short: "NeurIPS"
     conference: "Advances in Neural Information Processing Systems, 2025"
+    image: ./assets/img/EVDiffuser.png
     notes: ""
 
-  - title: "MLLMs are Deeply Affected by Modality Bias"
-    authors: "Xu Zheng*, Chenfei Liao*, Yuqian Fu, Kaiyu Lei, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Bin Ren, Jialei Chen, Jiawen Wang, Chengxin Li, Linfeng Zhang, Danda Pani Paudel, Xuanjing Huang, Yu-Gang Jiang, Nicu Sebe, Dacheng Tao, Luc Van Gool, Xuming Hu**"
-    conference_short: "Arxiv"
-    conference: "Arxiv, 2505"
-    pdf: "https://arxiv.org/pdf/2505.18657"
-    image: ./assets/img/MLLM_position.png
-    notes: ""
+  # - title: "MLLMs are Deeply Affected by Modality Bias"
+  #   authors: "Xu Zheng*, Chenfei Liao*, Yuqian Fu, Kaiyu Lei, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Bin Ren, Jialei Chen, Jiawen Wang, Chengxin Li, Linfeng Zhang, Danda Pani Paudel, Xuanjing Huang, Yu-Gang Jiang, Nicu Sebe, Dacheng Tao, Luc Van Gool, Xuming Hu**"
+  #   conference_short: "Arxiv"
+  #   conference: "Arxiv, 2505"
+  #   pdf: "https://arxiv.org/pdf/2505.18657"
+  #   image: ./assets/img/MLLM_position.png
+  #   notes: ""
 
-  - title: "Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook"
-    authors: "Xu Zheng*, Ziqiao Weng*, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Haiwei Xue, Bin Ren, Danda Paudel, Nicu Sebe, Luc Van Gool, Xuming Hu**"
-    conference_short: "Arxiv"
-    conference: "Arxiv, 2503"
-    pdf: "https://arxiv.org/pdf/2503.18016"
-    Project_Page: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-    image: ./assets/img/RAGCV.png
-    notes: ""
+  # - title: "Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook"
+  #   authors: "Xu Zheng*, Ziqiao Weng*, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Haiwei Xue, Bin Ren, Danda Paudel, Nicu Sebe, Luc Van Gool, Xuming Hu**"
+  #   conference_short: "Arxiv"
+  #   conference: "Arxiv, 2503"
+  #   pdf: "https://arxiv.org/pdf/2503.18016"
+  #   Project_Page: https://github.com/zhengxuJosh/Awesome-RAG-Vision
+  #   image: ./assets/img/RAGCV.png
+  #   notes: ""
 
-  - title: "MAGIC++: Efficient and Resilient Modality-Agnostic Semantic Segmentation via Hierarchical Modality Selection"
-    authors: "Xu Zheng, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Jiazhou Zhou, Lin Wang**, Xuming Hu**"
-    conference_short: "Arxiv"
-    conference: "Arxiv, 2412"
-    pdf: "https://arxiv.org/pdf/2412.16876"
-    image: ./assets/img/MAGIC++.png
-    notes: ""
+  # - title: "MAGIC++: Efficient and Resilient Modality-Agnostic Semantic Segmentation via Hierarchical Modality Selection"
+  #   authors: "Xu Zheng, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Jiazhou Zhou, Lin Wang**, Xuming Hu**"
+  #   conference_short: "Arxiv"
+  #   conference: "Arxiv, 2412"
+  #   pdf: "https://arxiv.org/pdf/2412.16876"
+  #   image: ./assets/img/MAGIC++.png
+  #   notes: ""
 
-  - title: "Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation"
-    authors: "Xu Zheng, Haiwei Xue, Jialei Chen, Yibo Yan, <strong>Lutao Jiang</strong>, Yuanhuiyi Lyu, Kailun Yang, Linfeng Zhang, Xuming Hu**"
-    conference_short: "Arxiv"
-    conference: "Arxiv, 2411"
-    pdf: "https://arxiv.org/pdf/2411.17141"
-    image: ./assets/img/Learning_Robust.png
-    notes: ""
+  # - title: "Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation"
+  #   authors: "Xu Zheng, Haiwei Xue, Jialei Chen, Yibo Yan, <strong>Lutao Jiang</strong>, Yuanhuiyi Lyu, Kailun Yang, Linfeng Zhang, Xuming Hu**"
+  #   conference_short: "Arxiv"
+  #   conference: "Arxiv, 2411"
+  #   pdf: "https://arxiv.org/pdf/2411.17141"
+  #   image: ./assets/img/Learning_Robust.png
+  #   notes: ""
 
   - title: "G-NeLF: Memory-and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis"
     authors: "<strong>Lutao Jiang</strong>, Lin Wang**"
