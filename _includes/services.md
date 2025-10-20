@@ -1,8 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
-CVPR/ICCV/ICLR/ACM MM/AAAI
+<h4 style="margin:0 10px 0;">Conference Reviewers: CVPR/ICCV/ICLR/ACM MM/AAAI</h4>
 
 <!-- <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024-2025</autocolor></a></li>
