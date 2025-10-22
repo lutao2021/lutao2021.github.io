@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a Ph.D. Candidate in the [Envision Lab](https://envision-research.hkust-gz.edu.cn/) at HKUST(GZ), advised by Prof. [Ying-Cong Chen](https://www.yingcong.me/) and Prof. [Xuming Hu](https://xuminghu.github.io/). Currently, I'm a Research Intern at Tencent. Previously, I'm a master student at Institute of Software Chinese Academy of Sciences (ISCAS) and the University of Chinese Academy of Sciences (UCAS). In 2021, I obtained the Bacheler's degree of Computer Science in China University of Geosciences (CUG). My recent research interests include Generative Artificial Intelligence and 3D Computer Vision.
+I'm a Ph.D. Candidate in the [Envision Lab](https://envision-research.hkust-gz.edu.cn/) at the Artificial Intelligence Thrust of HKUST(GZ), advised by Prof. [Ying-Cong Chen](https://www.yingcong.me/) and Prof. [Xuming Hu](https://xuminghu.github.io/). Currently, I'm a Research Intern at Tencent. Previously, I'm a master student at Institute of Software Chinese Academy of Sciences (ISCAS) and the University of Chinese Academy of Sciences (UCAS). In 2021, I obtained the Bacheler's degree of Computer Science in China University of Geosciences (CUG). My recent research interests include Generative Artificial Intelligence and 3D Computer Vision.
 
 
 ## Research Interests
