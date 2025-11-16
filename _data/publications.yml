@@ -74,6 +74,13 @@ main:
     image: ./assets/img/EVDiffuser.png
     notes: ""
 
+  - title: "T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object Detection"
+    authors: "Jiazhou Zhou, Qing Jiang, Kanghao Chen, <strong>Lutao Jiang</strong>, Yuanhuiyi Lyu, Ying-Cong Chen, Lei Zhang**"
+    conference_short: "AAAI"
+    conference: "The 40th Annual AAAI Conference on Artificial Intelligence, 2026"
+    image: ./assets/img/T-Rex-Omni.png
+    notes: ""
+
   # - title: "MLLMs are Deeply Affected by Modality Bias"
   #   authors: "Xu Zheng*, Chenfei Liao*, Yuqian Fu, Kaiyu Lei, Yuanhuiyi Lyu, <strong>Lutao Jiang</strong>, Bin Ren, Jialei Chen, Jiawen Wang, Chengxin Li, Linfeng Zhang, Danda Pani Paudel, Xuanjing Huang, Yu-Gang Jiang, Nicu Sebe, Dacheng Tao, Luc Van Gool, Xuming Hu**"
   #   conference_short: "Arxiv"
